@@ -1,4 +1,4 @@
-![image](https://github.com/Munimadhuriganji/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/138849444/1196d15a-4175-4790-b431-6e7067fff9d3)# EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
+### EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
@@ -368,11 +368,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 
-``
-
-
-
-
+```
 ## Output screen shots of proteus  :
  ![image](https://github.com/Munimadhuriganji/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/138849444/98644a7f-a8b4-4457-b6f4-a151b97cf64d)
 
@@ -396,12 +392,15 @@ TON = TOFF= TOTAL TIME = FREQUENCY = 1/(TOTAL TIME)
 ## OUTPUT:
 
 ## FOR PULSE AT 500:
+
 ![image](https://github.com/Munimadhuriganji/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/138849444/7f9efa76-31d6-4403-b87a-4f283d4c4be5)
 
 ##  FOR PULSE AT 700:
+
 ![image](https://github.com/Munimadhuriganji/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/138849444/54c6b2ef-6fb1-4222-84f9-d2dd3abe4062)
 
 ## FOR PULSE AT 900:
+
 ![image](https://github.com/Munimadhuriganji/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/138849444/19f9a2aa-f170-4b16-a65e-6c49b07a5eb5)
 
 
